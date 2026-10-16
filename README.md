@@ -93,7 +93,7 @@ phân loại.
 Buồng chụp gồm **đèn và camera**, tạo môi trường chụp ổn định để phục vụ
 quá trình nhận dạng màu sắc.
 
-Camera dự kiến sử dụng **OV7670 + FIFO AL422**.
+Camera dự kiến sử dụng **Wedcam micro logitech brio 100**.
 
 ### Cơ cấu đẩy bằng servo
 
